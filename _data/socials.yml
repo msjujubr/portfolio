@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: souza@cefetmg.br # your email address
 
 instagram_id: juliamouramodel # Seu nome de usuário no Instagram
-youtube_id: @juliamouramodel  # Seu canal do YouTube
+youtube_id: "@juliamouramodel"  # Seu canal do YouTube
 
 # -----------------------------------------------------------------------------
 # Link Personalizado / Outros Sites
